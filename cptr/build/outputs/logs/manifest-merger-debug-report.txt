@@ -1,0 +1,29 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\Program Files\Android\Projects\DeveloperHeadlines-master\DeveloperHeadlines-master\DeveloperHeadlines5\cptr\AndroidManifest.xml:1:1-13:12
+INJECTED from D:\Program Files\Android\Projects\DeveloperHeadlines-master\DeveloperHeadlines-master\DeveloperHeadlines5\cptr\AndroidManifest.xml:1:1-13:12
+INJECTED from D:\Program Files\Android\Projects\DeveloperHeadlines-master\DeveloperHeadlines-master\DeveloperHeadlines5\cptr\AndroidManifest.xml:1:1-13:12
+INJECTED from D:\Program Files\Android\Projects\DeveloperHeadlines-master\DeveloperHeadlines-master\DeveloperHeadlines5\cptr\AndroidManifest.xml:1:1-13:12
+INJECTED from D:\Program Files\Android\Projects\DeveloperHeadlines-master\DeveloperHeadlines-master\DeveloperHeadlines5\cptr\AndroidManifest.xml:1:1-13:12
+INJECTED from D:\Program Files\Android\Projects\DeveloperHeadlines-master\DeveloperHeadlines-master\DeveloperHeadlines5\cptr\AndroidManifest.xml:1:1-13:12
+INJECTED from D:\Program Files\Android\Projects\DeveloperHeadlines-master\DeveloperHeadlines-master\DeveloperHeadlines5\cptr\AndroidManifest.xml:1:1-13:12
+	package
+		ADDED from D:\Program Files\Android\Projects\DeveloperHeadlines-master\DeveloperHeadlines-master\DeveloperHeadlines5\cptr\AndroidManifest.xml:2:5-35
+		INJECTED from D:\Program Files\Android\Projects\DeveloperHeadlines-master\DeveloperHeadlines-master\DeveloperHeadlines5\cptr\AndroidManifest.xml
+		INJECTED from D:\Program Files\Android\Projects\DeveloperHeadlines-master\DeveloperHeadlines-master\DeveloperHeadlines5\cptr\AndroidManifest.xml
+	android:versionName
+		ADDED from D:\Program Files\Android\Projects\DeveloperHeadlines-master\DeveloperHeadlines-master\DeveloperHeadlines5\cptr\AndroidManifest.xml:4:5-30
+		INJECTED from D:\Program Files\Android\Projects\DeveloperHeadlines-master\DeveloperHeadlines-master\DeveloperHeadlines5\cptr\AndroidManifest.xml
+		INJECTED from D:\Program Files\Android\Projects\DeveloperHeadlines-master\DeveloperHeadlines-master\DeveloperHeadlines5\cptr\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\Program Files\Android\Projects\DeveloperHeadlines-master\DeveloperHeadlines-master\DeveloperHeadlines5\cptr\AndroidManifest.xml:1:11-69
+	android:versionCode
+		ADDED from D:\Program Files\Android\Projects\DeveloperHeadlines-master\DeveloperHeadlines-master\DeveloperHeadlines5\cptr\AndroidManifest.xml:3:5-28
+		INJECTED from D:\Program Files\Android\Projects\DeveloperHeadlines-master\DeveloperHeadlines-master\DeveloperHeadlines5\cptr\AndroidManifest.xml
+		INJECTED from D:\Program Files\Android\Projects\DeveloperHeadlines-master\DeveloperHeadlines-master\DeveloperHeadlines5\cptr\AndroidManifest.xml
+application
+ADDED from D:\Program Files\Android\Projects\DeveloperHeadlines-master\DeveloperHeadlines-master\DeveloperHeadlines5\cptr\AndroidManifest.xml:8:5-11:19
+	android:label
+		ADDED from D:\Program Files\Android\Projects\DeveloperHeadlines-master\DeveloperHeadlines-master\DeveloperHeadlines5\cptr\AndroidManifest.xml:10:9-41
+	android:allowBackup
+		ADDED from D:\Program Files\Android\Projects\DeveloperHeadlines-master\DeveloperHeadlines-master\DeveloperHeadlines5\cptr\AndroidManifest.xml:9:9-35
